@@ -63,3 +63,4 @@ else:
     print(" Incorrect Answer ")
     
 print (" Your Result is : " + str (score) + " Correct Answer ")
+print ("You got : " + str((score / 4) * 100) + "%. ")
